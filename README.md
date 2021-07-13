@@ -17,3 +17,9 @@
 ### https://github.com/diazflo/EurekaServer
 ## Gateway
 ### https://github.com/diazflo/Everis-Bootcamp-Gateway
+## Kafka
+### https://github.com/diazflo/Kafka-Server
+## Payment
+### https://github.com/diazflo/Everis-Bootcamp-Payment
+## Person
+### https://github.com/diazflo/Everis-Bootcamp-Person
